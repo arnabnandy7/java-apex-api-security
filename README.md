@@ -569,3 +569,6 @@ See [CHANGELOG.md](CHANGELOG.md).
 + [SLF4J FAQ](https://www.slf4j.org/faq.html)
 + [Akana API Consumer Security](http://docs.akana.com/ag/cm_policies/using_api_consumer_app_sec_policy.htm)
 + [RSA and HMAC Request Signing Standard](http://tools.ietf.org/html/draft-cavage-http-signatures-05)
+
+
+<!-- GitAds-Verify: FKKRDOG3CODAAILHQING24F7L868L6CM -->
