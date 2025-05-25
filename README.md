@@ -571,4 +571,7 @@ See [CHANGELOG.md](CHANGELOG.md).
 + [RSA and HMAC Request Signing Standard](http://tools.ietf.org/html/draft-cavage-http-signatures-05)
 
 
-<!-- GitAds-Verify: FKKRDOG3CODAAILHQING24F7L868L6CM -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/java-apex-api-security@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/java-apex-api-security@github)
+
+
